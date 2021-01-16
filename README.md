@@ -9,5 +9,6 @@ Angular Training Folder:
 
 C# Training Folder:
 
-1. cssarpassignment --> 
+1. cssarpassignment --> C# exercise 4 switch cases
+2. ElectricityBillTestCase --> Test cases for eletricity bill program
 
