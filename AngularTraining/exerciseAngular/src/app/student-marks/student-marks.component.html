@@ -1,0 +1,16 @@
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Math</th>
+        <th>Science</th>
+        <th>English</th>
+        <th>Average</th>
+    </tr>
+    <tr *ngFor = "let Item of data">
+        <td>{{Item.Name}}</td>
+        <td>{{Item.Math}}</td>
+        <td>{{Item.Science}}</td>
+        <td>{{Item.English}}</td>
+        <td>{{average(Item)}}</td>
+    </tr>
+</table>
