@@ -1,0 +1,13 @@
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.exe
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.deps.json
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.runtimeconfig.json
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.runtimeconfig.dev.json
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.dll
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\bin\Debug\netcoreapp3.1\cssarpAssignment.pdb
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.csprojAssemblyReference.cache
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.AssemblyInfoInputs.cache
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.AssemblyInfo.cs
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.dll
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.pdb
+C:\Users\6109668\source\repos\cssarpAssignment\cssarpAssignment\obj\Debug\netcoreapp3.1\cssarpAssignment.genruntimeconfig.cache

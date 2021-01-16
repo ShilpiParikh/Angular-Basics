@@ -1,0 +1,13 @@
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.exe
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.deps.json
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.runtimeconfig.json
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.runtimeconfig.dev.json
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.dll
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\bin\Debug\netcoreapp3.1\ElectricityBillTestCase.pdb
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.csprojAssemblyReference.cache
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.AssemblyInfoInputs.cache
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.AssemblyInfo.cs
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.csproj.CoreCompileInputs.cache
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.dll
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.pdb
+C:\Users\6109668\source\repos\ElectricityBillTestCase\ElectricityBillTestCase\obj\Debug\netcoreapp3.1\ElectricityBillTestCase.genruntimeconfig.cache
