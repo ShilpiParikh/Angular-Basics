@@ -1,0 +1,30 @@
+<!-- <app-search-function></app-search-function>
+
+<br>
+<br>
+<app-product-info></app-product-info> -->
+
+<!-- <nav>
+    <ul>
+      <li><a routerLink="/home" routerLinkActive="active">Home</a></li>
+      <li><a routerLink="/product-Info" routerLinkActive="active">Product Information..</a></li>
+    </ul>
+  </nav> -->
+
+  <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <a href="#" class="navbar-brand">Angular Exercise</a>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav">
+            <a href="#" class="nav-item nav-link" routerLink="/home" routerLinkActive="active">Home</a> <br>
+            <a href="#" class="nav-item nav-link" routerLink="/product-Info" routerLinkActive="active">Products</a> <br>
+            <!-- <a href="#" class="nav-item nav-link">Input-Output</a> -->
+        </div>
+    </div>
+</nav>
+
+<!-- The routed views render in the <router-outlet>-->
+    <router-outlet></router-outlet>
