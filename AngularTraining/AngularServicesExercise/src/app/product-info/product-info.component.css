@@ -5,11 +5,3 @@ input[type=text] {
     box-sizing: border-box;
   }
 
-legend{
-    font-size: 30px;
-    color: blue;
-}
-
-fieldset{
-    border: rgb(2, 2, 2) dashed;
-}
