@@ -1,0 +1,25 @@
+<table>
+    <tr>
+        <th>ProductName</th>
+        <th>ProductCode</th>
+        <th>BranchName</th>
+        <th>BranchCode</th>
+        <th>ShippingAddress</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    <tr *ngFor = "let post of products">
+        <td>{{post.productName}}</td>
+        <td>{{post.productCode}}</td>
+        <td>{{post.branchName}}</td>
+        <td>{{post.branchCode}}</td>
+        <td>{{post.shippingAddress}}</td>
+        <!-- <td><button
+        (click)="updatePost(post)"
+        class="btn btn-default btn-sm">Update</button></td> -->
+        <td><button
+            (click)="deleteData(post.productName,post.productCode,post.branchName,post.branchCode,post.shippingAddress)"
+            class="btn btn-danger btn-sm pull-right">Delete</button></td>
+    </tr>
+   
+</table>
